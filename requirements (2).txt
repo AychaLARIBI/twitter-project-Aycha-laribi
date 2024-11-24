@@ -1,0 +1,9 @@
+
+scikit-learn
+tweepy
+pandas
+python-twitter
+
+nltk
+
+
